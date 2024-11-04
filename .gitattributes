@@ -1,2 +1,98 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Best Video Games Ever</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: skyblue;
+        }
+
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+
+        section {
+            margin-bottom: 30px;
+            background: white;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+
+        .resources {
+            font-size: 0.9em;
+            color: #555;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>My Top 5 Favorite Video Games</h1>
+
+    <section>
+        <h2>1. Destiny </h2>
+        <p> My dad and I have played destiny together for almost 7 years, it's the type of game you sit and play for hours, the time flies! A guardian traveling across the universe.</p>
+        <div class= "image-container">
+       <img src="destiny.jpg" alt="Video game guardian standing before a glowing portal with a shadowy figure inside, preparing to enter a futuristic world.">
+            <br> <cite> Photo from <a href="https://www.freepik.com/free-photo/luminous-metaverse-background_29806323.htm#fromView=search&page=1&position=0&uuid=e1213ed7-1416-4786-8e84-297b7ce8e4e4" target="_blank">Free Pik</a></cite>
+       </div>
+        
+    </section>
+
+    <section>
+        <h2>2. Call of Duty </h2>
+        <p> Call of Duty (Specifically MW2 and Vanguard) will always be one of the best first-person shooter games. I enjoy the fast-pace multiplayer rounds and adjusting weapons.</p>
+        <div class= "image-container">
+       <img src="cod.jpg" alt="Three soldiers in tactical gear and camouflage uniforms, armed with rifles, advancing through an industrial setting.">
+            <br> <cite> Photo from <a href="https://www.freepik.com/free-photo/army-soldiers-fighting-with-guns-defending-their-country_14492175.htm#fromView=search&page=1&position=0&uuid=62502d9f-42a6-4d08-b6c9-0fbda625470c" target="_blank">Free Pik</a></cite>
+       </div>
+    </section>
+
+    <section>
+       
+    <h2>3. Far Cry 5</h2>
+    <p>I liked the open world asepct, as well as the southern desert theme. You can get through the whole game quickly as the activities are fun and adventurous.</p>
+    <div class="image-container">
+        <img src="farcry.jpeg" alt="Silhouette of a man with a rifle standing in shallow water at sunset, surrounded by a dark, forested landscape.">
+        <br>
+        <cite>Made with AI from <a href="https://www.freepik.com/free-ai-image/digital-art-style-illustration-river-nature_319400424.htm#fromView=search&page=1&position=20&uuid=00fe71a0-f467-45b9-b3f0-dc6be3845d57" target="_blank">Freepik</a></cite>
+    </div>
+</section>
+    
+
+    <section>
+         <h2>4. Fallout 4 </h2>
+        <p> The nuclear wasteland theme is always fun and the open-world activites are fun.Collecting items is my favorite part, as well as the visuals of the abandoned citites.</p>
+        <div class= "image-container">
+       <img src="fallout.jpg" alt="a sunset over a dirty road">
+            <br> 
+            <cite> Made with AI from <a href="https://https://www.freepik.com/free-ai-image/apocalyptic-destruction-war-zone-landscape_94957900.htm#fromView=search&page=1&position=12&uuid=70112fc3-5f42-499d-9f6d-071dc44a3290" target="_blank">Free Pik</a></cite>
+       </div>
+    </section>
+
+    <section>
+       <h2>5. Minecraft </h2>
+        <p> I play Minecraft to releive stress, as you can pick it up anytime and build whatever you want. Building your own world with your complete imagination is rewarding as well as theraputic.</p>
+        <div class= "a low poly model of a forest ai">
+       <img src="minecraft.jpg" alt="astronaut">
+            <br> <cite> Made with AI from <a href="https://https://www.freepik.com/free-ai-image/3d-isometric-landscape-with-forest-water_67207972.htm#fromView=search&page=1&position=12&uuid=e04ca51f-5be2-4326-9280-b8b072e5371b" target="_blank">Free Pik</a></cite>
+       </div>
+    </section>
+
+</body>
+
+</html>
